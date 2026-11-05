@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+pb01,First Ascent,pack-local equal-tempered pitch collection,C,126,4/4,480,32,61440,midi/pb01-first-ascent/pb01-first-ascent-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pb02,Warm Steps,pack-local equal-tempered pitch collection,D#,126,4/4,480,32,61440,midi/pb02-warm-steps/pb02-warm-steps-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pb03,Long Horizon,pack-local equal-tempered pitch collection,F#,126,4/4,480,32,61440,midi/pb03-long-horizon/pb03-long-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pb04,Lift Return,pack-local equal-tempered pitch collection,C#,126,4/4,480,32,61440,midi/pb04-lift-return/pb04-lift-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

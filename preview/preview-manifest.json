@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/progressive-house-builds-simple-synth-preview.mp3",
+  "preview_sha256": "0835643c1e3135caa213d5b04e0feca19e9fa1208bbdb40894c5fcb08ec99e6f",
+  "source_midi_path": "midi/pb01-first-ascent/pb01-first-ascent-combined.mid",
+  "source_midi_sha256": "36f09b67603b3985d74fd8b9b0e16d243158098b95e3268eb1d31d86ae45df36",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "pb01",
+    "start_seconds": 0,
+    "end_seconds": 60.952
+  },
+  "measurement": {
+    "sample_peak": 0.122716,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

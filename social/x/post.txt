@@ -1,0 +1,3 @@
+DRAFT: Progressive House Builds Studies is a four-study original MIDI release at 126 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 148 characters using Python len

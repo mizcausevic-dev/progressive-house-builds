@@ -1,0 +1,26 @@
+{
+  "title": "Progressive House Builds",
+  "study": "pb01",
+  "bpm": 126,
+  "source_audio": "preview/progressive-house-builds-simple-synth-preview.mp3",
+  "source_audio_sha256": "0835643c1e3135caa213d5b04e0feca19e9fa1208bbdb40894c5fcb08ec99e6f",
+  "source_midi": "midi/pb01-first-ascent/pb01-first-ascent-combined.mid",
+  "source_midi_sha256": "36f09b67603b3985d74fd8b9b0e16d243158098b95e3268eb1d31d86ae45df36",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "01793c5cd7a080dc54e5f27161720907e40d81e1478e1ddb02bc948b84b0c7a9",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "af66ff0f4aa914340b6b4ade4b390b47bd98fb2fd58c1dc0598eefdeb20bb193",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "7383c0d21d870c30086e6365aac904bf079a55fea4ea013b226e816974d05ad9",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
