@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/progressive-house-builds-midi.zip",
-      "bytes": 29989,
-      "sha256": "c3a0726eea18721aab7319841693363b635049667b8f0366474d2726fa76e60e"
+      "bytes": 32033,
+      "sha256": "b26134600c056fc31979b0d059d4eba04ab3dbfb1e752f00952c80c34d27a94d"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9485,
-      "sha256": "620b213219ad0f81e3baf6ac1fadaba831b6c7d71bffbc246caf5c3cc18337d6"
+      "bytes": 9675,
+      "sha256": "721870d331bed2475d8fc91e5c8b3117c093a006525182aba623e22689ec7bd0"
     },
     {
       "path": "midi/pb01-first-ascent/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "85c4e25f1f9e01c199af0ebd11c5f82866149bfd6b4e0fa22aeee0877aa045c8"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1139,
       "sha256": "575307a245c86d391647508cfa894c81ec94619e2f592053ddfe36f9e4a7dcb2"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3906,
-      "sha256": "134cde26ae778e4d9056b32786c976266db2551bafa4aa40735b70a71b318801"
+      "bytes": 4021,
+      "sha256": "3fef7338310b2e3911d0d91281eb9c6b13461be3004abc3455488a6503065074"
     },
     {
       "path": "social/instagram/caption.txt",
